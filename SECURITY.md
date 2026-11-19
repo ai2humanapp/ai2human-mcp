@@ -4,7 +4,7 @@
 
 Please do not open a public issue for a security problem.
 
-Report it privately through <https://ai2human.app/contact> and write "Security report" in the subject. Include:
+Report it privately using GitHub's **[Report a vulnerability](https://github.com/ai2humanapp/ai2human-mcp/security/advisories/new)** button on the Security tab of this repository. If you cannot use GitHub, use <https://ai2human.app/contact> and write "Security report" in the subject. Include:
 
 - what you found and where (endpoint, tool or flow),
 - steps to reproduce,
