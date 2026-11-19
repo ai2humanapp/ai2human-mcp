@@ -1,0 +1,13 @@
+# Never commit credentials or key material
+*.pem
+*.key
+.env
+.env.*
+.mcp_publisher_token
+mcp-registry-auth
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

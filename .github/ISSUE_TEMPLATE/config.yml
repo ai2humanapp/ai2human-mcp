@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, billing or plan question
+    url: https://ai2human.app/contact
+    about: Contact AI2Human support.
+  - name: Security vulnerability
+    url: https://github.com/ai2humanapp/ai2human-mcp/blob/main/SECURITY.md
+    about: Report privately. Do not open a public issue.
