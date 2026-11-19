@@ -3,8 +3,15 @@
   "name": "app.ai2human/humanizer",
   "title": "AI2Human",
   "description": "Humanize AI-written text and detect AI writing from any MCP-compatible agent. Paid plans only.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://ai2human.app/mcp",
+  "icons": [
+    {
+      "src": "https://ai2human.app/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "repository": {
     "url": "https://github.com/ai2humanapp/ai2human-mcp",
     "source": "github"
